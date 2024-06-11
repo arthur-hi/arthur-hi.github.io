@@ -3,17 +3,14 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## About Me
 
 I am a second-year Computer Science & Artificial Intelligence student at the University of Brighton.
+
 My curiosity for the interactions between users and programs through natural language has driven me to explore advanced AI topics extensively, often pushing my PC to its limits with local AI experiments.
+
 Outside of my studies, I enjoy a variety of activities with friends, spend weekends with nearby family, and connect with distant relatives through online gaming during quieter evenings.
 
 
