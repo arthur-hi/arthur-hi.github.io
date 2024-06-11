@@ -10,11 +10,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a second-year Computer Science & Artificial Intelligence student at the University of Brighton.
+My curiosity for the interactions between users and programs through natural language has driven me to explore advanced AI topics extensively, often pushing my PC to its limits with local AI experiments.
+Outside of my studies, I enjoy a variety of activities with friends, spend weekends with nearby family, and connect with distant relatives through online gaming during quieter evenings.
 
-## Header 2
+
+## Academic
+
+University of Brighton
+BACH DEGREE
+
+Callywith College
+BTEC DIPLOMA
+
+AQA / GCSE
+
+One of the standout projects from my first year involved creating a game aimed at engaging younger audiences with cyber security. This project was a collaborative effort and allowed me to combine my interest in AI with practical applications in education and security.
+
 
 > This is a blockquote following a header.
 >
